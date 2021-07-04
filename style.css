@@ -41,6 +41,9 @@ h2{
     background-repeat: no-repeat;
     background-position: right;
 }
+.new {
+    padding-left:50px;
+    }
 .expreince-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
