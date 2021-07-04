@@ -39,7 +39,7 @@ h2{
 .dream-big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: right bottom;
 }
 .new {
     padding-left:50px;
